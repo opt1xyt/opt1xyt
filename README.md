@@ -3,11 +3,11 @@
 - This is [@optixyt0](https://github.com/optixyt0)'s alt account.
 - I am currently working to become a Full Stack Developer!
 - Fun Fact about me: I play VR games most of the time.
-- How to reach me:<br> <br>
+- How to reach me:<br>
   Discord: @optixyt0 <br>
   Mastodon: @optixyt@procursus.social <br>
   Main TikTok: @thorpepark.fan <br>
-  Alt TikTok: @optixyt0 <br>
+  Alt TikTok: @optixyt0 <br> <br>
 - Ask me about C#, JS, Python and other languages.
 - I'm currently working on numerous random projects.
 - Pronouns: he/him/they/them
