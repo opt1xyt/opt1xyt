@@ -7,7 +7,7 @@
   Discord: @optixyt0 <br>
   Mastodon: @optixyt@procursus.social <br>
   Main TikTok: @thorpepark.fan <br>
-  Alt TikTok: @optixyt0 <br> <br>
+  Alt TikTok: @optixyt0 <br>
 - Ask me about C#, JS, Python and other languages.
 - I'm currently working on numerous random projects.
 - Pronouns: he/him/they/them
